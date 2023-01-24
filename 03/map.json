@@ -8,6 +8,7 @@
     {"id": 5, "type": "mine", "resources": 3},
     {"id": 6, "type": "cross"},
     {"id": 7, "type": "mine", "resources": 7}
+
   ],
   "edge": [
     {"start": 0, "stop": 1, "size": 5},

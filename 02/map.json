@@ -20,8 +20,6 @@
     {"start": 3, "stop": 6, "size": 7},
     {"start": 6, "stop": 7, "size": 3}
   ],
-  "robot": {
-    "size": 10
-  },
+  "robot": {"size": 10},
   "goal": {"resources": 10}
 }
